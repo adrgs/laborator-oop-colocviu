@@ -1,0 +1,3 @@
+C:/Users/adragos/Desktop/proiecte/laborator/cmake-build-debug/CMakeFiles/laborator.dir
+C:/Users/adragos/Desktop/proiecte/laborator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adragos/Desktop/proiecte/laborator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

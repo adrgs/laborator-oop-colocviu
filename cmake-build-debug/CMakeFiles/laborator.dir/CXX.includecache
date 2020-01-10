@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/adragos/Desktop/proiecte/laborator/Candidat.h
+vector
+-
+string
+-
+Dosar.h
+C:/Users/adragos/Desktop/proiecte/laborator/Dosar.h
+
+C:/Users/adragos/Desktop/proiecte/laborator/Domeniu.h
+string
+-
+vector
+-
+Dosar.h
+C:/Users/adragos/Desktop/proiecte/laborator/Dosar.h
+Candidat.h
+C:/Users/adragos/Desktop/proiecte/laborator/Candidat.h
+
+C:/Users/adragos/Desktop/proiecte/laborator/Dosar.h
+string
+-
+
+C:/Users/adragos/Desktop/proiecte/laborator/Facultate.h
+string
+-
+vector
+-
+Domeniu.h
+C:/Users/adragos/Desktop/proiecte/laborator/Domeniu.h
+
+C:/Users/adragos/Desktop/proiecte/laborator/main.cpp
+iostream
+-
+vector
+-
+Facultate.h
+C:/Users/adragos/Desktop/proiecte/laborator/Facultate.h
+
